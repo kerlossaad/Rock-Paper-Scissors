@@ -1,9 +1,9 @@
 {
     "webcredentials": {
         "apps": [
-            "com.kirosaad.ks.AutoPassword-iOS12",
-            "com.kirosaad.ks.AutoPassword-iOS12.QA",
-            "com.kirosaad.ks.AutoPassword-iOS12.Dev"
+            "959EC93537.com.kirosaad.ks.AutoPassword-iOS12",
+            "959EC93537.com.kirosaad.ks.AutoPassword-iOS12.QA",
+            "959EC93537.com.kirosaad.ks.AutoPassword-iOS12.Dev"
         ]
     }
 }
